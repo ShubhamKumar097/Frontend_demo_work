@@ -1,0 +1,80 @@
+
+.navbar{ background: #de4463;}
+
+.nav-link , .navbar-brand{ color: #f4f4f4; cursor: pointer;}
+
+.nav-link{ margin-right: 1em !important;}
+
+.nav-link:hover{ background: #f4f4f4; color: #de4463; }
+
+.navbar-collapse{ justify-content: flex-end;}
+
+.navbar-toggler{  background:#000 !important;}
+
+h1,h2{
+  font-family: 'Anton', sans-serif;
+  font-size: 3.0rem;
+  line-height: 1.5;
+  padding-top: 95px;
+  padding-left: 110px;
+  color: #de4463;
+}
+
+.download-button{
+  margin: 5% 3% 5% 0%;
+}
+
+.bacn{
+  color: #583d72;
+  padding-top: 3%;
+  font-size: 1.2rem;
+}
+
+.img1{
+  padding-top: 95px;
+  width: 80%;
+  padding-left: 50px;
+}
+
+.img1{
+  padding-top: 95px;
+}
+
+.title-col{
+  padding: 100px;
+  background-color: #fff;
+  width: 25%;
+}
+
+#features{
+  padding: 3% 5%;
+  background-color: #fff;
+}
+
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
+
+#footer{
+  text-align: center;
+  padding: 1% 10%;
+  background-color: #fff;
+  font-size: 1.0rem;
+}
+
+.footer-link{
+margin: 0 15px 0 15px;
+}
+
+.copyright:hover{
+  padding-top: 3%;
+  color: #19d3da;
+}
+
+@media (max-width: 1028px)
+{
+  #title{
+    text-align: center;
+  }
+}
